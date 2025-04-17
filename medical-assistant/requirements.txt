@@ -1,0 +1,8 @@
+torch
+torchvision
+transformers
+langchain
+ctransformers
+gtts
+matplotlib
+Pillow
